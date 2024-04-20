@@ -61,8 +61,10 @@ Visit the [Digi Suraksha deployed on Render](https://digisuraksha.onrender.com/)
 ![Report Page](https://github.com/iamyashg/DigiSuraksha/assets/72647281/3e600f13-d380-4c8d-ab56-35d92114a2d8)
 
 ## Contribution
-
-- Cybersecurity Threats Page & Report Page Developed by [Vansh Sethi](https://github.com/vanshsethi23)
+- Backend and API Integration by [Yash Gupta](https://github.com/iamyashg)
+- Frontend Website by [Avani Jain](https://github.com/Avanijain3261) 
+- Report Page by [Vansh Sethi](https://github.com/vanshsethi23)
+- Mobile App Developed by Bikas Kumar Singh
 
 Contributions to Digi Suraksha are welcome! If you find a bug or have a feature request, please open an issue. If you'd like to contribute code, fork the repository and submit a pull request.
 
